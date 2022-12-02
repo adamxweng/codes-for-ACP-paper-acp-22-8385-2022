@@ -33,7 +33,7 @@ ozone_outputpath = "/output/06_Ridge_grid/GridOut/"
 
 
 # met data dir
-metdir = "/meterology/06_Ridge_grid/metinput/"
+metdir = "/meteorology/06_Ridge_grid/metinput/"
 
 
 
